@@ -12,7 +12,7 @@
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me **cs21.bilal@gmail.com**
+- 📫 How to reach me **hamidaniel007@gmail.com**
 
 ## 👨‍💻 Connect with me
 <p>
