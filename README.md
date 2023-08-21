@@ -37,22 +37,15 @@
 </div>
 
 ## EDUCATION
-<h5>BSCS from FUUAST, Islamabad</h5>
-March(2017) - March(2021)
-Graduated with CGPA 3.05 
+<h5>International Islamic University, Islamabad</h5>
+Sep(2018) - Aug(2022)
 
 ## WORK EXPERIENCE 
-<h5>Junior Software Engineer</h5>
+<h5>Frontend Developer</h5>
 Zaxiss, Behria Town Islamabad
-Jan(2023) – Present<br></br>
+July(2022) – Present<br></br>
 Responsibilities:<br></br>
-- Working on the product based project. <a href="https://play.google.com/store/apps/details?id=com.onediamond.app">Project Link.</a><br></br>
 - Development, Deployment and management of Android and iOS applications usingcross platform (Flutter).
-<h5>Software Engineer Intern</h5>
-Zaxiss, Behria Town Islamabad</br>
-Nov(2022) – Jan(2023) <br></br>
-- Understanding the company environment and walk through on the all on goingprojects.<br></br>
-- Working on the skills flutter and angular.
 
 ## Career Goals
 
