@@ -22,7 +22,7 @@
 
 
 ## 𝌕 Contact Me
-<a href="https://wa.link/hdnmxr" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.link/5nmtlh" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:hamidaniel007@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
